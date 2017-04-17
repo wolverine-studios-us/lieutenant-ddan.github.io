@@ -3182,7 +3182,6 @@
 
 			#banner {
 				background-size: 10em, 10em, auto, cover;
-				padding: 6em 0;
 			}
 
 				#banner .inner {
@@ -3220,13 +3219,11 @@
 
 			#cta {
 				background-size: 10em, 10em, auto, cover;
-				padding: 3em 1.5em;
 			}
 
 		/* Footer */
 
 			#footer {
-				padding: 3em 1.5em;
 			}
 
 				#footer .copyright li {
