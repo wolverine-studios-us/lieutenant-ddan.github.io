@@ -2858,7 +2858,6 @@
 		/* Main */
 
 			#main {
-				padding: 5em 0;
 			}
 
 				#main .sidebar {
@@ -2872,7 +2871,6 @@
 					}
 
 			body.index #main {
-				padding-top: 4.5em;
 			}
 
 		/* CTA */
@@ -3213,7 +3211,6 @@
 			}
 
 			body.index #main {
-				padding: 2.5em 0 0 0;
 			}
 
 			body.contact #main {
