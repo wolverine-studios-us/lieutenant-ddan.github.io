@@ -105,10 +105,6 @@
 			width: 300px;
 		}
 
-		.container {
-			width: 1200px;
-		}
-
 	}
 
 	@media screen and (max-width: 1280px) {
@@ -2098,7 +2094,6 @@
 /* Wrapper */
 
 	.wrapper {
-		margin-bottom: 5em;
 		padding: 5em;
 	}
 
