@@ -2858,7 +2858,6 @@
 		/* Main */
 
 			#main {
-				padding: 5em 0;
 			}
 
 				#main .sidebar {
@@ -2872,7 +2871,6 @@
 					}
 
 			body.index #main {
-				padding-top: 4.5em;
 			}
 
 		/* CTA */
@@ -3209,11 +3207,9 @@
 
 			#main {
 				background-size: 10em;
-				padding: 3.5em 0 2.5em 0;
 			}
 
 			body.index #main {
-				padding: 2.5em 0 0 0;
 			}
 
 			body.contact #main {
