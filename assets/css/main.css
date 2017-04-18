@@ -2793,6 +2793,7 @@
 		/* Section/Article */
 
 			section {
+				margin: 1em 0 1em 0;
 			}
 
 				section:first-child {
@@ -2857,6 +2858,7 @@
 		/* Main */
 
 			#main {
+				padding: 5em 0;
 			}
 
 				#main .sidebar {
@@ -2870,6 +2872,7 @@
 					}
 
 			body.index #main {
+				padding-top: 4.5em;
 			}
 
 		/* CTA */
@@ -3181,6 +3184,7 @@
 
 			#banner {
 				background-size: 10em, 10em, auto, cover;
+				padding: 6em 0;
 			}
 
 				#banner .inner {
@@ -3205,9 +3209,11 @@
 
 			#main {
 				background-size: 10em;
+				padding: 3.5em 0 2.5em 0;
 			}
 
 			body.index #main {
+				padding: 2.5em 0 0 0;
 			}
 
 			body.contact #main {
@@ -3218,11 +3224,13 @@
 
 			#cta {
 				background-size: 10em, 10em, auto, cover;
+				padding: 3em 1.5em;
 			}
 
 		/* Footer */
 
 			#footer {
+				padding: 3em 1.5em;
 			}
 
 				#footer .copyright li {
