@@ -2918,7 +2918,6 @@
 				-webkit-transition: -webkit-transform 0.5s ease;
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
-				display: block;
 				height: 60px;
 				left: 0;
 				position: fixed;
